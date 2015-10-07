@@ -4,3 +4,14 @@
 test_upload_dir
 /heyefi.tix
 /test-heyefi.tix
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
+
